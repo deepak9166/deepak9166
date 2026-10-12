@@ -1,4 +1,4 @@
-I'm a Software developer who is passionate to learn and love to create new things. I have 3+ years of experince in development. I love to write technical articles and share the knowledge with others.
+I'm a Software developer who is passionate to learn and love to create new things. I have 6+ years of experince in development. I love to write technical articles and share the knowledge with others.
 
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@deep9166/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/deepakkachchha1 )
